@@ -47,6 +47,10 @@ Sou formando em **Análise e Desenvolvimento de Sistemas pela FEMA** e atuo como
 Sistema Web Full Stack desenvolvido como TCC para gestão e agendamento inteligente de creches caninas, utilizando **Java, Spring Boot (JWT / JPA), Angular e PostgreSQL**.
 
 <p align="left">
-  <a href="https://github.com/leocaua/creche-canina-frontend"><img src="https://img.shields.io/badge/Frontend-creche--canina--frontend-F24E1E?style=for-the-badge&logo=angular&logoColor=white" /></a>
-  <a href="https://github.com/leocaua/creche-canina-backend"><img src="https://img.shields.io/badge/Backend-creche--canina--backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /></a>
+  <a href="https://github.com/leocaua/creche-canina-frontend">
+    <img src="https://img.shields.io/badge/Frontend-creche--canina--frontend-F24E1E?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://github.com/leocaua/creche-canina-backend">
+    <img src="https://img.shields.io/badge/Backend-creche--canina--backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  </a>
 </p>
