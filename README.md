@@ -15,7 +15,7 @@ Sou formando em Análise e Desenvolvimento de Sistemas pela FEMA e atuo como Des
     <img src="https://img.shields.io/badge/LinkedIn-leonardocaua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:leonardocauagsilva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-leonardocauagsilva@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/leonardo.gmsz">
     <img src="https://img.shields.io/badge/Instagram-@leonardo.gmsz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
